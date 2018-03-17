@@ -1,0 +1,7 @@
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\bin\Debug\17-03-2018-oop-introduction.exe.config
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\bin\Debug\17-03-2018-oop-introduction.exe
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\bin\Debug\17-03-2018-oop-introduction.pdb
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\obj\Debug\17-03-2018-oop-introduction.csprojResolveAssemblyReference.cache
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\obj\Debug\17-03-2018-oop-introduction.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\obj\Debug\17-03-2018-oop-introduction.exe
+C:\Users\Samir\source\repos\17-03-2018-oop-introduction\17-03-2018-oop-introduction\obj\Debug\17-03-2018-oop-introduction.pdb
